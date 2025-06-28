@@ -1,0 +1,26 @@
+{
+    "fallout_terminal": {
+        "name": "Fallout Terminal",
+        "description": "Classic green terminal theme inspired by Fallout",
+        "colors": {
+            "primary": "#00FF41",
+            "secondary": "#FFA500", 
+            "background": "#001100",
+            "inactive": "#006600",
+            "highlight": "#FFFF00",
+            "error": "#FF0000",
+            "success": "#00FF00"
+        },
+        "fonts": {
+            "primary": "Courier New",
+            "fallback": "monospace",
+            "size": 14
+        },
+        "ui_elements": {
+            "border_style": "ascii",
+            "cursor_blink": true,
+            "typing_effect": true,
+            "scan_lines": false
+        }
+    }
+}

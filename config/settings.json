@@ -1,0 +1,32 @@
+{
+    "display": {
+        "window_width": 1200,
+        "window_height": 800,
+        "fullscreen": false,
+        "vsync": true,
+        "fps_limit": 60
+    },
+    "simulation": {
+        "default_speed": 500,
+        "default_array_size": 50,
+        "min_array_size": 10,
+        "max_array_size": 100
+    },
+    "theme": {
+        "primary_color": "#00FF41",
+        "secondary_color": "#FFA500",
+        "background_color": "#001100",
+        "inactive_color": "#006600"
+    },
+    "controls": {
+        "pause_play_key": "Space",
+        "step_key": "Right",
+        "reset_key": "R",
+        "menu_key": "Escape"
+    },
+    "audio": {
+        "master_volume": 0.7,
+        "sfx_volume": 0.8,
+        "enabled": true
+    }
+}
